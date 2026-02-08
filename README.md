@@ -30,7 +30,7 @@
 - ✉️ Open to B2B contracts April 2026+
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zafdrive)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/zafdrive](https://www.linkedin.com/in/pablo-comas/))
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zafdrive.com)
 
 **¡Visita mis repos pinned arriba!** 🚀
